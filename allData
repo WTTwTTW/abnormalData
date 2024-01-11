@@ -6,7 +6,7 @@
         "性别":"女",
         "生日": "1993-02-15",
         "联系方式": {
-            "电子邮箱": "zhangsan@example.com",
+            "电子邮箱": "zhangsan@example.com"
         },
         "技能": ["Java", "Python", "JavaScript"],
         "薪资": 15000.00,
@@ -20,7 +20,7 @@
         "性别":"女",
         "生日": "1995-05-07",
         "联系方式": {
-            "电子邮箱": "lisi@example.com",
+            "电子邮箱": "lisi@example.com"
         },
         "技能": ["C++", "React", "SQL"],
         "薪资": 16000.00,
@@ -34,7 +34,7 @@
         "程序员": false,
         "生日": "1991-12-21",
         "联系方式": {
-            "电子邮箱": "wangwu@example.com",
+            "电子邮箱": "wangwu@example.com"
         },
         "技能": ["Word", "Excel", "PPT"],
         "薪资": 14000.00,
