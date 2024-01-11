@@ -5,7 +5,7 @@
         "性别":"女",
         "生日": "1993-02-15",
         "联系方式": {
-            "电子邮箱": "zhangsan@example.com",
+            "电子邮箱": "zhangsan@example.com"
         },
         "技能": ["Java", "Python", "JavaScript"],
         "薪资": 15000.00,
